@@ -1,0 +1,4 @@
+It should be in the format:
+
+python load_json.py 10.json 27017
+python load_json.py farmers-protest-tweets-2021-03-5.json 27017
